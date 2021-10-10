@@ -19,4 +19,8 @@ python 3.7.6
 
 - pip install pandas == 1.0.1
 
-## Run 
+## Instructions
+- Make sure you have "pandas" installed in the python environment.
+- Download Extract_titles from GIT to download folder.
+- Open CMD and navigate to download folder.
+- Write in CMD "python extract_titles.py".
