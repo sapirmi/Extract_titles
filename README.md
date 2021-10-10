@@ -20,5 +20,5 @@ python 3.7.6
 ## Instructions
 - Make sure you have "pandas" installed in the python environment.
 - Download Extract_titles from GIT to download folder.
-- Open CMD and navigate to download folder.
-- Write in CMD "python extract_titles.py".
+- Open "Anaconda prompt" and navigate to download folder.
+- Write in "Anaconda prompt" - "extract_titles.py".
