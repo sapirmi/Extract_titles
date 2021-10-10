@@ -1,7 +1,7 @@
 # Extract_titles
 Extract titles from news website
 
-## Instructions
+## Instructions - Home assignment
 Build the ShellHN - a command line utility in Python.
 
 The ShellHN should have the following capabilities:
@@ -18,3 +18,5 @@ Hacker news - https://news.ycombinator.com/
 python 3.7.6
 
 - pip install pandas == 1.0.1
+
+## Run 
